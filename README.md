@@ -1,1 +1,3 @@
 # population
+
+![population](midterm.png)
